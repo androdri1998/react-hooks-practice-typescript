@@ -1,3 +1,10 @@
+# react-hooks-practice-typescript  
+## Description  
+This project was create to practice of the React and React Hooks with Typescript.  
+There are no layouts in application, the focus was learning more about the sintaxy of the Typescript.
+
+
+## How run application
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
